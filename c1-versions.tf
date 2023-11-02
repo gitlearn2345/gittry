@@ -8,9 +8,3 @@ terraform {
     }
   }
 }
-
-# Provider Block
-provider "azurerm" {
-features {}
-}
-# test elayamni */
