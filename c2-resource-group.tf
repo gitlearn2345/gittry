@@ -6,3 +6,5 @@ resource "azurerm_resource_group" "myrg" {
 
   /* add elayamani */
 }
+
+/* merger and commit from branch feature2*/& 2 time
